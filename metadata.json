@@ -1,0 +1,6 @@
+{
+  "name": "Demo Gym",
+  "description": "Modern, mobile-first website for Demo Gym with direct WhatsApp membership booking, tap-to-call, class schedules, and authentic photo gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
